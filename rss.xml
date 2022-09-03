@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>manuel on the mic</title>
+    <link>http://manuelonthemic.com/</link>
+    <language>en-us</language>
+    <copyright>&#169;2021 Manuel Newsom</copyright>
+    <itunes:author>Manuel "on the mic" newsom</itunes:author>
+    <description>
+      i had one too much drink and now i host a podcast ,
+      i mostly rant about random stuff but its usually funny (at least thats what they say)
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>manuel on the mic</itunes:name>
+      <itunes:email>matdiac@outlook.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://manuelonthemic.com/coverart.jpg"/>
+    <itunes:category text="Comedy">
+      <itunes:category text="Improv"/>
+    </itunes:category>
+    <itunes:explicit>yes</itunes:explicit>
+    <item>
+      <title>episode 1</title>
+      <description>
+        <![CDATA[kyle likes heroin.]]>
+      </description>
+      <link>http://manuelonthemic.com/episode-list.html</link>
+      <enclosure type="audio/mpeg" url="http://manuelonthemic.com/episodes/episode1/episode_1_edited_280921.waw" />
+      <guid>71eb86a3-1280-40af-bf25-b804eb79af3a</guid>
+      <pubDate>30 sep 2021 15:00:00 GMT</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+      <title>episode 2</title>
+      <description>
+        <![CDATA[too much peoples.]]>
+      </description>
+      <link>http://manuelonthemic.com/episode-list.html</link>
+      <enclosure type="audio/mpeg" url="http://manuelonthemic.com/episodes/episode2/episode_2_edited_241021.mp3" />
+      <guid>8b12ce09-63b7-40d3-9fd4-3628f9ea35eb</guid>
+      <pubDate>24 oct 2021 17:00:00 GMT</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+        <item>
+      <title>episode 3 (halloween special)</title>
+      <description>
+        <![CDATA[horrible halloween.]]>
+      </description>
+      <link>http://manuelonthemic.com/episode-list.html</link>
+      <enclosure type="audio/mpeg" url="http://manuelonthemic.com/episodes/episode3/episode_3_edited_281221.mp3" />
+      <guid>59a83fbb-be12-41a9-ae3a-dc3575f69171</guid>
+      <pubDate>28 oct 2021 14:00:00 GMT</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+        <item>
+      <title>episode 4</title>
+      <description>
+        <![CDATA[i taped my finger.]]>
+      </description>
+      <link>http://manuelonthemic.com/episode-list.html</link>
+      <enclosure type="audio/mpeg" url="http://manuelonthemic.com/episodes/episode4/episode_4_edited-021121.mp3" />
+      <guid>807f1238-6e52-476b-92f1-00968ed742d7</guid>
+      <pubDate>02 nov 2021 18:00:00 GMT</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+            <item>
+      <title>episode 5</title>
+      <description>
+        <![CDATA[we were both drunk and ian was there.]]>
+      </description>
+      <link>http://manuelonthemic.com/episode-list.html</link>
+      <enclosure type="audio/mpeg" url="https://www.manuelonthemic.com/episodes/episode5/episode5091121.mp3" />
+      <guid>25ac23de-64f4-41b8-a21a-f79f679d05c3</guid>
+      <pubDate>09 nov 2021 18:00:00 GMT</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+                <item>
+      <title>episode 8</title>
+      <description>
+        <![CDATA[twitter cars and geopolitics.]]>
+      </description>
+      <link>http://manuelonthemic.com/episode-list.html</link>
+      <enclosure type="audio/mpeg" url="https://www.manuelonthemic.com/episodes/episode8/episode8edited.mp3" />
+      <guid>28d2486a-98a2-43ef-894e-9347ba3f96a7</guid>
+      <pubDate>04 feb 2022 18:00:00 GMT</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+  </channel>
+</rss>
