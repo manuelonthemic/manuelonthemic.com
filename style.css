@@ -80,6 +80,14 @@ top: 10%;
 transform: scale(0.5) rotate(-25deg);
 }
 
+#github{
+  position: absolute;
+  left: 90%;
+  top: 13%;
+  transform: scale(0.3) rotate(-25deg);
+  image-rendering: auto;
+  }
+
 #maintext{
   position: absolute;
   text-align:center
@@ -90,4 +98,17 @@ transform: scale(0.5) rotate(-25deg);
   left:60%;
   text-align:center;
   
+}
+
+#terciarytext{
+  position: absolute;
+  text-align:center;
+  top: 48%;
+}
+
+#textfour{
+  position: absolute;
+  text-align:center;
+  left: 5%;
+  top: 55%;
 }
