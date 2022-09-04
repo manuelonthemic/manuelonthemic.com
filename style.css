@@ -88,11 +88,6 @@ transform: scale(0.5) rotate(-25deg);
   image-rendering: auto;
   }
 
-  #netscape{
-    position: absolute;
-    left: 1%;
-    top: 19%;
-    }
 
 #maintext{
   position: absolute;
