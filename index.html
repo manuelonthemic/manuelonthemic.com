@@ -18,6 +18,14 @@
 
     gtag('config', 'G-G5KHE1MGMR');
   </script>
+  <script>
+    var viewMode = getCookie("view-mode");
+if(viewMode == "desktop"){
+    viewport.setAttribute('content', 'width=1024');
+}else if (viewMode == "mobile"){
+    viewport.setAttribute('content', 'width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no');
+}
+  </script>
 </head>
 
 <body>
@@ -39,11 +47,16 @@
     <div id="github">
       <img src="now github hosted.png">
     </div>
-  <div style="    position: absolute;
-  left: 1%;
-  top: 19%;">
- <p style="color: black; font-size: 17px;">this page is best viewed in :<a href="https://www.google.com/chrome/"><img style="scale: 0.18; transform: translate(-100%,-240%);" src="netscape.gif" alt=""></a></p>
-  </div>
+    <div id="computergif" style="position: absolute;left: 5%;top: 12%;">
+    <img src="desktopspin.gif" alt="">
+    <img style="scale: 0.4;" src="laptopspin.gif" alt="">
+    <img style="scale:0.2;transform: translate(189%, -250%);" src="cd.webp" alt="">
+    </div>
+    <div id="netscape" style="position: absolute;left: 1%;top: 19%;">
+      <p style="color: black; font-size: 17px;">this page is best viewed in :<a
+          href="https://www.google.com/chrome/"><img style="scale: 0.18; transform: translate(-100%,-240%);"
+            src="netscape.gif" alt=""></a></p>
+    </div>
     <img src="comisions.png" style="position: absolute;left: 45%;transform: scale(0.5);top: 15%;">
 
     <div style="text-align:center">
