@@ -1,7 +1,6 @@
 
-
 body {
-    background-image: url("wallhellow.png");
+    background-image: url("wall.png");
     background-size: 100px;
     color:black;
     font-family: Comic Sans,Comic Sans MS,cursive;
@@ -72,8 +71,6 @@ body {
     overflow: visible;
     text-align: center;
     height: 5px;
-
-  
 }
 
 #sslsecure{
@@ -116,13 +113,3 @@ transform: scale(0.5) rotate(-25deg);
   left: 5%;
   top: 55%;
 }
-
-#fire{
-  position:fixed;
-  bottom: 0px;
-  width: 100%;
-  left: 50%;
-  transform: translate(-50%, -0%);
-  z-index: -1;
-}
-
